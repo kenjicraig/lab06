@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/kenjicraig/Desktop/EECS 348/lab06'
+binary-path:     '/Users/kenjicraig/Desktop/EECS 348/lab06/lab06'
 relocations:
   - { offsetInCU: 0x319D, offset: 0x319D, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x137C, symBinAddr: 0x100003164, symSize: 0x1EC }
   - { offsetInCU: 0x5827, offset: 0x5827, size: 0x8, addend: 0x0, symName: __ZNSt3__1lsB8ue170006IcNS_11char_traitsIcEENS_9allocatorIcEEEERNS_13basic_ostreamIT_T0_EES9_RKNS_12basic_stringIS6_S7_T1_EE, symObjAddr: 0x364, symBinAddr: 0x10000214C, symSize: 0x4C }
@@ -12,7 +12,7 @@ relocations:
   - { offsetInCU: 0x59F5, offset: 0x59F5, size: 0x8, addend: 0x0, symName: __ZNSt3__116__pad_and_outputB8ue170006IcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_, symObjAddr: 0x15B8, symBinAddr: 0x1000033A0, symSize: 0x240 }
   - { offsetInCU: 0x5AC4, offset: 0x5AC4, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x1C14, symBinAddr: 0x1000039FC, symSize: 0x2C }
   - { offsetInCU: 0x5F91, offset: 0x5F91, size: 0x8, addend: 0x0, symName: __ZNSt3__118__constexpr_strlenB8ue170006EPKc, symObjAddr: 0x1C78, symBinAddr: 0x100003A60, symSize: 0x24 }
-  - { offsetInCU: 0x8622, offset: 0x8622, size: 0x8, addend: 0x0, symName: __Z18readMatrixFromFilePA10_iRiRKNSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEE, symObjAddr: 0x0, symBinAddr: 0x100001DE8, symSize: 0x1D0 }
+  - { offsetInCU: 0x8622, offset: 0x8622, size: 0x8, addend: 0x0, symName: __Z10readMatrixPA10_iRiRKNSt3__112basic_stringIcNS2_11char_traitsIcEENS2_9allocatorIcEEEE, symObjAddr: 0x0, symBinAddr: 0x100001DE8, symSize: 0x1D0 }
   - { offsetInCU: 0x87D1, offset: 0x87D1, size: 0x8, addend: 0x0, symName: __ZNSt3__114basic_ifstreamIcNS_11char_traitsIcEEEC1ERKNS_12basic_stringIcS2_NS_9allocatorIcEEEEj, symObjAddr: 0x1D0, symBinAddr: 0x100001FB8, symSize: 0x16C }
   - { offsetInCU: 0x8819, offset: 0x8819, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEEntB8ue170006Ev, symObjAddr: 0x33C, symBinAddr: 0x100002124, symSize: 0x28 }
   - { offsetInCU: 0x883D, offset: 0x883D, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x3F8, symBinAddr: 0x1000021E0, symSize: 0x2C }
